@@ -1,0 +1,19 @@
+{
+  "name": "getting_started_node",
+  "version": "1.0.0",
+  "description": "Inicio de estudos de Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aula 1",
+    "getting started"
+  ],
+  "author": "José Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
